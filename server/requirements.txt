@@ -1,0 +1,2 @@
+# Solo necesario con --vpad (Windows). Requiere además instalar el driver ViGEmBus.
+vgamepad
